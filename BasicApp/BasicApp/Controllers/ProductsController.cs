@@ -1,5 +1,6 @@
 ﻿using BasicApp.Application.DTOs.Product;
 using BasicApp.Application.Products.Handler.Command;
+using BasicApp.Application.Products.Handler.Query;
 using BasicApp.Domain;
 using BasicApp.Persistence;
 using MediatR;
@@ -21,7 +22,10 @@ namespace BasicApp.Controllers
         [Route("getall-products")]
         public async Task<ActionResult> Get()
         {
-            return Ok();
+            var query = new GetAllProductListRequest { };
+            var productList = _mediator.Send(query);
+
+            return Ok(productList);
         }
 
         [HttpGet]

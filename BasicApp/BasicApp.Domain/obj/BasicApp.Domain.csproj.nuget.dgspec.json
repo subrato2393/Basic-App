@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj": {}
+    "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj": {
+    "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj",
         "projectName": "BasicApp.Domain",
-        "projectPath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj",
+        "projectPath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj",
         "packagesPath": "C:\\Users\\subrato\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\obj\\",
+        "outputPath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\subrato\\AppData\\Roaming\\NuGet\\NuGet.Config",

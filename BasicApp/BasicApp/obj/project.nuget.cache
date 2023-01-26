@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZQHKu4tuMsVdw6HmKQPtNLifWLo7N7GsGv4BnJ4rUswb8ld4Mqs1cUm5FPUe+jw7HwPWYXGLx3O4We+glVKe9w==",
+  "dgSpecHash": "2sh0kSZ2oHZsCq8P+/BPRpCQm9VSCsdnJNnWyGqsEbJojJQqoq1leYG3LP1pNmm2+T+vZq+sWCvHywQcJhjSAA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp\\BasicApp.csproj",
+  "projectFilePath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp\\BasicApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\subrato\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\subrato\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

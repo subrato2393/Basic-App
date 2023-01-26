@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hYkhLdI9SgBt9wdGFLVahbNthK1pWfUTDe1dN2OWGbCZ6SHH7l1khlomJz8FHykA7pDxqgW9WAcVDhEfnMlEiA==",
+  "dgSpecHash": "G0XCT++3Uv4AZDx7805lhD1KHKHMHczUw1lym4jVCNmQHLZpVK0sBfPUXc/eHFSDYTHw9ZFDviGLL8oD5G5ZQQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

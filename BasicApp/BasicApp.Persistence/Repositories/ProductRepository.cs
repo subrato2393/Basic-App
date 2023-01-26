@@ -26,9 +26,10 @@ namespace BasicApp.Persistence.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<List<Product>> GetProductListAsync()
+        public async Task<List<Product>> GetProductListAsync()
         {
-            throw new NotImplementedException();
+            var product =_context.Product.ToList();
+            return product;
         }
 
         public Task<int> UpdateProductAsync(Product productDetails)

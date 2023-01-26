@@ -1882,11 +1882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Persistence\\BasicApp.Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Persistence\\BasicApp.Persistence.csproj",
       "projectName": "BasicApp.Persistence",
-      "projectPath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Persistence\\BasicApp.Persistence.csproj",
+      "projectPath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Persistence\\BasicApp.Persistence.csproj",
       "packagesPath": "C:\\Users\\subrato\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Persistence\\obj\\",
+      "outputPath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\subrato\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1903,8 +1903,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\subrato\\Desktop\\C# Interview Questions\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj"
+            "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\subrato\\Desktop\\Basic-App\\BasicApp\\BasicApp.Domain\\BasicApp.Domain.csproj"
             }
           }
         }
