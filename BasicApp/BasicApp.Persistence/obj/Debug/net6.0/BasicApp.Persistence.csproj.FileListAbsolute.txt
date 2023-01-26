@@ -1,0 +1,17 @@
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\BasicApp.Persistence.deps.json
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\BasicApp.Persistence.runtimeconfig.json
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\BasicApp.Persistence.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\ref\BasicApp.Persistence.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\BasicApp.Persistence.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\BasicApp.Domain.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\bin\Debug\net6.0\BasicApp.Domain.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.csproj.AssemblyReference.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.AssemblyInfoInputs.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.AssemblyInfo.cs
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.csproj.CopyComplete
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\ref\BasicApp.Persistence.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Persistence\obj\Debug\net6.0\BasicApp.Persistence.genruntimeconfig.cache

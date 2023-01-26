@@ -1,0 +1,17 @@
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Application.deps.json
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Application.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\ref\BasicApp.Application.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Application.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Domain.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Persistence.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Persistence.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\bin\Debug\net6.0\BasicApp.Domain.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.csproj.AssemblyReference.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.AssemblyInfoInputs.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.AssemblyInfo.cs
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.csproj.CopyComplete
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\ref\BasicApp.Application.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Application\obj\Debug\net6.0\BasicApp.Application.pdb

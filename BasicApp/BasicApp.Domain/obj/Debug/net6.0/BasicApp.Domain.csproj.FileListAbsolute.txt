@@ -1,0 +1,12 @@
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\bin\Debug\net6.0\BasicApp.Domain.deps.json
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\bin\Debug\net6.0\BasicApp.Domain.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\bin\Debug\net6.0\ref\BasicApp.Domain.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\bin\Debug\net6.0\BasicApp.Domain.pdb
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.csproj.AssemblyReference.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.AssemblyInfoInputs.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.AssemblyInfo.cs
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\ref\BasicApp.Domain.dll
+C:\Users\subrato\Desktop\C# Interview Questions\BasicApp\BasicApp.Domain\obj\Debug\net6.0\BasicApp.Domain.pdb
