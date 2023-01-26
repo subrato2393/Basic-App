@@ -16,14 +16,17 @@ namespace BasicApp.Persistence.Repositories
             return result.Entity;
         }
 
-        public Task<int> DeleteProductAsync(int Id)
+        public async Task<int> DeleteProductAsync(int id)
         {
-            throw new NotImplementedException();
+           var product = _context.Product.Find(id);
+           _context.Product.Remove(product);
+           return  _context.SaveChanges();
         }
 
-        public Task<Product> GetProductByIdAsync(int Id)
+        public async Task<Product> GetProductByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            var product = _context.Product.Where(x => x.ProductId == id).FirstOrDefault();
+            return product;
         }
 
         public async Task<List<Product>> GetProductListAsync()
@@ -32,9 +35,10 @@ namespace BasicApp.Persistence.Repositories
             return product;
         }
 
-        public Task<int> UpdateProductAsync(Product productDetails)
+        public async Task<int> UpdateProductAsync(Product productDetails)
         {
-            throw new NotImplementedException();
+           _context.Product.Update(productDetails);
+           return _context.SaveChanges();
         }
     }
 }

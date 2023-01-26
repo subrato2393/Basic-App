@@ -8,7 +8,7 @@ using MediatR;
 
 namespace BasicApp.Application.Products.Handler.Command
 { 
-    public class UpdateProductCommand:IRequest
+    public class UpdateProductCommand:IRequest<int>
     {
         public ProductDto ProductDto { get; set; }
     }

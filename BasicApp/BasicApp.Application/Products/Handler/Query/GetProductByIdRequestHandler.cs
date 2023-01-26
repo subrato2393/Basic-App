@@ -11,22 +11,22 @@ using MediatR;
 
 namespace BasicApp.Application.Products.Handler.Query
 {
-    public class GetAllProductListRequestHandler : IRequestHandler<GetAllProductListRequest, List<ProductDto>>
+    public class GetProductByIdRequestHandler : IRequestHandler<GetProductByIdRequest, ProductDto>
     {
         private readonly IProductRepository _productRepository;
         private readonly IMapper _mapper;
 
-        public GetAllProductListRequestHandler(IProductRepository productRepository,
+        public GetProductByIdRequestHandler(IProductRepository productRepository,
             IMapper mapper)
-        {
+        { 
             _productRepository = productRepository;
             _mapper = mapper;
         }
           
-        public async Task<List<ProductDto>> Handle(GetAllProductListRequest request, CancellationToken cancellationToken)
+        public async Task<ProductDto> Handle(GetProductByIdRequest request, CancellationToken cancellationToken)
         {
-            var productList=await _productRepository.GetProductListAsync();
-            var products = _mapper.Map<List<ProductDto>>(productList);
+            var product=await _productRepository.GetProductByIdAsync(request.ProductId);
+            var products = _mapper.Map<ProductDto>(product);
 
             return products;
         }

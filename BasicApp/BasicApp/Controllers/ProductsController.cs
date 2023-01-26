@@ -30,9 +30,11 @@ namespace BasicApp.Controllers
 
         [HttpGet]
         [Route("getbyid")]
-        public async Task<ActionResult> GetById(int id)
+        public async Task<ActionResult<ProductDto>> GetById(int id)
         {
-            return Ok();
+            var command = new GetProductByIdRequest { ProductId = id };
+            var response = await _mediator.Send(command);
+            return Ok(response); 
         }
 
         [HttpPost]
@@ -47,29 +49,20 @@ namespace BasicApp.Controllers
 
         [HttpPut]
         [Route("update-product")]
-        public async Task<ActionResult> Put(Product product)
+        public async Task<ActionResult> Put(ProductDto product)
         {
-            //var aProduct =_context.Product.Find(product.ProductId);
-            //aProduct.Price = product.Price;
-            //aProduct.Qty = product.Qty;
-            //aProduct.Code = product.Code;
-
-            //_context.Product.Update(aProduct);
-            //_context.SaveChanges();
-
-            return Ok();
+            var command = new UpdateProductCommand { ProductDto = product };
+            var response = _mediator.Send(command);
+            return Ok(response);
         }
 
         [HttpDelete]
         [Route("delete-product")]
         public async Task<ActionResult> Delete(int id)
         {
-            //var product = _context.Product.Find(id);
-
-            //_context.Product.Remove(product);
-            //_context.SaveChanges();
-
-            return Ok();
+            var command = new DeleteProductCommand { ProductId = id };
+            var response = _mediator.Send(command);
+            return Ok(response);
         }
     }
 }
