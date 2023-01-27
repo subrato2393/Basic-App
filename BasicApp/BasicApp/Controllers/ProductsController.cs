@@ -25,7 +25,7 @@ namespace BasicApp.Controllers
             var query = new GetAllProductListRequest { };
             var productList = _mediator.Send(query);
 
-            return Ok(productList);
+            return Ok(productList.Result.ToList());
         }
 
         [HttpGet]
